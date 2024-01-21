@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cutilembur_menu</name>
+   <tag></tag>
+   <elementGuidId>a6b65e2a-e3ef-4f11-a5ee-6d5f99be36a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/div[@id='root']/div[1]/div[1]/ul[1]/li[3]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/div[@id='root']/div[1]/div[1]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>8b7e38d4-d88f-4f18-9785-2d5f8a94bd5a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

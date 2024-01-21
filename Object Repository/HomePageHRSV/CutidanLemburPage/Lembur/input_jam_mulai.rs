@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_jam_mulai</name>
+   <tag></tag>
+   <elementGuidId>0ad20814-3927-4405-81b3-36cae5d6cf89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='10:02 AM']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-datepicker__input-container > input.form-control</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[3]/div/main/div/div/div/div/div/div[2]/div[2]/div[1]/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[3]/div/main/div/div/div/div/div/div[2]/div[2]/div[1]/div/div/div/input</value>
+      <webElementGuid>4f3f5013-dac7-4fbb-8c90-e238f018eeea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='10:02 AM']</value>
+      <webElementGuid>ca0e70e9-5b41-4155-98dc-1641f7aac146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div[2]/div[2]/div/div/div/div/input</value>
+      <webElementGuid>2ddb8966-f907-44f9-9c0b-eebc0d95ad68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/input</value>
+      <webElementGuid>147fc0bf-9fa5-4d01-9f48-668c9dfcc026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>3f74fd4f-39e1-43ad-b303-29eff07ba87c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

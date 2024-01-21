@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>next_step</name>
+   <tag></tag>
+   <elementGuidId>8ff409c8-2379-433c-b032-f0b689d56df4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[3]/div/main/div/div/div/div[4]/div[1]/div/div/form/div/div[2]/div[11]/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;next_step&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='next_step']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[3]/div/main/div/div/div/div[4]/div[1]/div/div/form/div/div[2]/div[11]/div[2]/div/select</value>
+      <webElementGuid>9c35c35b-8c9c-4ee8-9a9a-178f741ee0e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='next_step']</value>
+      <webElementGuid>bb77609b-8e13-4a47-aa9a-dad190065f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[4]/div/div/div/form/div/div[2]/div[11]/div[2]/div/select</value>
+      <webElementGuid>ff503d8f-929d-4a2e-92f2-d59daa72e983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Step'])[1]/following::select[1]</value>
+      <webElementGuid>d86600b1-f752-457c-9291-cedb5ef02938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/following::select[1]</value>
+      <webElementGuid>193ee721-01b8-4bc6-bf8e-50f71d8c67ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Path/Filename'])[1]/preceding::select[1]</value>
+      <webElementGuid>7998d488-b8b6-4741-b9d6-488fca5c1ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Pekerjaan'])[1]/preceding::select[1]</value>
+      <webElementGuid>a865e640-7e76-4ea6-9e77-ca7df399cd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/div/select</value>
+      <webElementGuid>c693a50b-b700-4b27-a180-0015dc83e5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@placeholder = '-Select-' and @name = 'next_step' and (text() = '--Select--ContinuePauseWait ApprovalFinal' or . = '--Select--ContinuePauseWait ApprovalFinal')]</value>
+      <webElementGuid>5691ae7d-17ad-4e44-9ef5-7efcbf707cb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>count_days</name>
+   <tag></tag>
+   <elementGuidId>427421c9-e9d2-4f1f-ba77-63986d453f25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/div/div[2]</value>
+      <webElementGuid>4f78495c-ebc9-4d36-9a3c-a22cabd7fc10</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

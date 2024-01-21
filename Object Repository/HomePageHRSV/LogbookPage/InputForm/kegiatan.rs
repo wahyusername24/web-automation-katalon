@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kegiatan</name>
+   <tag></tag>
+   <elementGuidId>d9f3a8d6-64c0-4819-bfc1-52e0ec7d9de1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[3]/div/main/div/div/div/div[4]/div[1]/div/div/form/div/div[2]/div[8]/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;kegiatan&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='kegiatan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[3]/div/main/div/div/div/div[4]/div[1]/div/div/form/div/div[2]/div[8]/div[2]/div/select</value>
+      <webElementGuid>11df0605-fad4-4d8e-afc7-fdc02d216b4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='kegiatan']</value>
+      <webElementGuid>00428357-4235-42c6-9c75-5d8530391e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[4]/div/div/div/form/div/div[2]/div[8]/div[2]/div/select</value>
+      <webElementGuid>af764c4d-8ed7-409a-aaac-abc90a5cac1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kegiatan'])[1]/following::select[1]</value>
+      <webElementGuid>eaac07f2-533b-4a86-aee5-02a31277d517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Case'])[1]/following::select[1]</value>
+      <webElementGuid>9ca34f51-f141-4f82-9dcd-c80528af920e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil'])[1]/preceding::select[1]</value>
+      <webElementGuid>1fec5a20-9e4a-4f7e-aa89-991c4558f38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capaian'])[1]/preceding::select[1]</value>
+      <webElementGuid>a24d4af6-2c29-465c-b7eb-0b76eca38000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/select</value>
+      <webElementGuid>2690f42e-c593-45e2-b913-3d1b065ae888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@placeholder = '-Select-' and @name = 'kegiatan' and (text() = '--Select--Searching MateriBelajar MateriBuat Laporan/Presentasi/ProposalLayoutInterview/Tinjauan LapanganIdentifikasi DokumenOlah Data (Excel)Input DataBuat KuosionerBuat Lembar KerjaTrainingTestingProgrammingInstall Alat/SistemPresentasiMeeting/Rapat' or . = '--Select--Searching MateriBelajar MateriBuat Laporan/Presentasi/ProposalLayoutInterview/Tinjauan LapanganIdentifikasi DokumenOlah Data (Excel)Input DataBuat KuosionerBuat Lembar KerjaTrainingTestingProgrammingInstall Alat/SistemPresentasiMeeting/Rapat')]</value>
+      <webElementGuid>138cbaf5-b428-403b-b920-9b0e74be8217</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

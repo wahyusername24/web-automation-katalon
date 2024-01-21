@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>profile_name</name>
+   <tag></tag>
+   <elementGuidId>b17d7173-3d60-4b6e-8e32-e6b62b94169b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[3]/header/ul[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[3]/header/ul[3]/span</value>
+      <webElementGuid>02c0214f-2ca6-46c9-add3-ddc759d076de</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

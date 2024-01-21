@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close_popup</name>
+   <tag></tag>
+   <elementGuidId>03fc3e98-a862-4ccc-b345-45737e7ab4d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[4]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[4]/div/button</value>
+      <webElementGuid>bbb7a4fe-be24-4243-a01e-d8e6ccd6c6cd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

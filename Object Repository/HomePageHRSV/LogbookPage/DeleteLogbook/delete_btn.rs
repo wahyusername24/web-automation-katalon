@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete_btn</name>
+   <tag></tag>
+   <elementGuidId>d812e85b-665d-4965-a873-4a38de708cae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[1]/div[2]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[1]/div[2]/button[1]</value>
+      <webElementGuid>1dd670af-e889-4f42-9dcf-5bd53321ae15</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

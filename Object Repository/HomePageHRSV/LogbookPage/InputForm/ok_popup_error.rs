@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ok_popup_error</name>
+   <tag></tag>
+   <elementGuidId>0e15cc3a-0597-4228-b709-93a1757aecd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[3]</value>
+      <webElementGuid>a8d65f78-2cda-4a4a-9da3-730a60307829</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

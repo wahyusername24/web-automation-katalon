@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ok_popup</name>
+   <tag></tag>
+   <elementGuidId>e4177e9e-bdd3-4fc5-9f17-6285838825a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[4]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[4]/div/button</value>
+      <webElementGuid>18f7b8c3-b320-4400-8392-2513b922f9c5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

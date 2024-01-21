@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tgl_finish</name>
+   <tag></tag>
+   <elementGuidId>1cb90af6-8557-427d-9fde-c1dcb1bd25d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div[1]/div[1]/div/form/div/div/div[1]/div/span[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div[1]/div[1]/div/form/div/div/div[1]/div/span[2]/input</value>
+      <webElementGuid>963c6ad6-5d37-46f1-9bec-58abe0229150</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

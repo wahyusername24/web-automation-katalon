@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://103.180.125.58:8080/'</initValue>
+      <name>PageUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cuti_btn</name>
+   <tag></tag>
+   <elementGuidId>f2aaa085-95d1-4377-953d-a3fc7fd62661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[2]/div[1]/div[2]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[2]/div[1]/div[2]/a/button</value>
+      <webElementGuid>6e30af54-3b32-4b7d-a43a-bc3b0f1d72a4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

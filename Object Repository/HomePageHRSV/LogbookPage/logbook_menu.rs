@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logbook_menu</name>
+   <tag></tag>
+   <elementGuidId>36a2fccb-c192-408c-8900-db919e1d34e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[1]/ul/li[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[1]/ul/li[1]/a</value>
+      <webElementGuid>7ea52c9c-fe07-462b-9e61-cea8e0461852</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

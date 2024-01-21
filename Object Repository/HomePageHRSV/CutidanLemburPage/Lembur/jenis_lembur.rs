@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jenis_lembur</name>
+   <tag></tag>
+   <elementGuidId>a1d8085f-c7fc-4612-9673-ddb67ae9f717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='jenis_lembur']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;jenis_lembur&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[3]/div/main/div/div/div/div/div/div[2]/div[3]/div[1]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[3]/div/main/div/div/div/div/div/div[2]/div[3]/div[1]/div/select</value>
+      <webElementGuid>30db05a1-b5f0-497a-96ba-d7825a4c9631</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='jenis_lembur']</value>
+      <webElementGuid>a7244cee-c8b6-4ef3-ae7a-2d4168a7b9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div[2]/div[3]/div/div/select</value>
+      <webElementGuid>e610d8dd-a65e-419e-8360-0206a8d30ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Lembur'])[1]/following::select[1]</value>
+      <webElementGuid>a8d0f2c1-33ab-4e30-86a6-8f92c5291f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Jam'])[1]/following::select[1]</value>
+      <webElementGuid>3d8ad362-cc06-499c-9469-246750651fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama PIC'])[1]/preceding::select[1]</value>
+      <webElementGuid>bbf71902-ffef-4f36-9fc4-48febe24f951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan Lembur'])[1]/preceding::select[2]</value>
+      <webElementGuid>838e3997-78fb-4be8-9a70-5f4ecfdb4348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>18efa7d6-ed42-4fe5-af10-399393f064ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@placeholder = '-Select-' and @name = 'jenis_lembur' and (text() = '--Select--Hari KerjaHari Libur' or . = '--Select--Hari KerjaHari Libur')]</value>
+      <webElementGuid>1e1dede0-9bbf-4e6a-a8da-8e1a026f8eee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

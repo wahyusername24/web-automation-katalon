@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tap_outside_box</name>
+   <tag></tag>
+   <elementGuidId>922c6579-1d81-4e51-8a7b-410238e2d914</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/div/div[2]</value>
+      <webElementGuid>6b4f1013-1125-42c8-b162-ccd10c434b97</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cuti_menu</name>
+   <tag></tag>
+   <elementGuidId>256b4bd6-817a-41f1-8a29-b0d9f09fbdaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/div/div/li[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[2]/div/div/li[1]/a</value>
+      <webElementGuid>8459f95c-6a76-4cc9-87b3-42390d7f5ebd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

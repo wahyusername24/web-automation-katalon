@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox2</name>
+   <tag></tag>
+   <elementGuidId>b61a8188-5e2d-443d-8f05-5a7017d4631a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[5]/div/div[2]/table/tbody/tr[2]/td[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[5]/div/div[2]/table/tbody/tr[2]/td[1]/div/input</value>
+      <webElementGuid>af57c59a-e504-47e0-87c4-901882185302</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

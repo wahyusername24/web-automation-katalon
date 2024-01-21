@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>page_title_cuti</name>
+   <tag></tag>
+   <elementGuidId>2db31810-6700-4145-b920-b21720f83192</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[2]/div[1]/div[1]/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[2]/div[1]/div[1]/h5</value>
+      <webElementGuid>f7cdbe51-ae1d-40da-94e8-2a39246577cd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

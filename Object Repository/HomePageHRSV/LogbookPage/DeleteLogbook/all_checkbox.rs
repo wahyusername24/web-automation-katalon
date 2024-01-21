@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>all_checkbox</name>
+   <tag></tag>
+   <elementGuidId>52e70394-77ae-48c9-8902-42c96b1c5655</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//thead/tr[1]/th[1]/div[1]/span[1]/input[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//thead/tr[1]/th[1]/div[1]/span[1]/input[1]</value>
+      <webElementGuid>8e61e577-bac5-4ea5-88e2-ea3734d3a0bc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
