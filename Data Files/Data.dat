@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>0d7c1c2e-49b9-4077-bd47-3d89acf5f3ec</dataFileGUID>
-   <dataSourceUrl>D:\app\QA\test_data_hrsv.xls</dataSourceUrl>
+   <dataSourceUrl>C:\Users\wahyu.setyadi\Katalon Studio\AutomationTestSharingVision\Data Files\test_data_hrsv.xls</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <properties>

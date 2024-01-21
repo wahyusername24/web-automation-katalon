@@ -68,10 +68,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>95ff62aa-ad49-43aa-9e84-6af42deca48b</guid>
+      <guid>b22a024f-bdf4-4bfe-8842-63f35ec4f149</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Scenario/LoginFail</testCaseId>
+      <testCaseId>Test Cases/Scenario/Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

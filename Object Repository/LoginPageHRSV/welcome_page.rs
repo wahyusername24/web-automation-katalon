@@ -6,15 +6,19 @@
    <elementGuidId>424f5207-1ed7-4494-af23-d796f284b5cb</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div/div/h4</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>h4</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div[2]/div/div/div/div/div/h4</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Aplikasi HR SV Jakarta' or . = 'Aplikasi HR SV Jakarta')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>a41252ca-7b15-4b63-9cc2-d7173a9af5a7</webElementGuid>
+      <webElementGuid>b6d38439-97ef-4fd3-b6f7-85f8ea5c3fc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Aplikasi HR SV Jakarta</value>
-      <webElementGuid>74f80157-d42f-4c7b-be7c-b4e8c2c755e8</webElementGuid>
+      <webElementGuid>01cf023d-70c2-4d10-9d30-643b1236aa4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout flex-row align-items-center bg_image&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;card shadow-lg&quot;]/div[@class=&quot;card-body px-5 pt-5 pb-5&quot;]/div[@class=&quot;text-center&quot;]/h4[1]</value>
-      <webElementGuid>f14b8a8d-ae25-4a34-803f-321e0661286a</webElementGuid>
+      <webElementGuid>f91ea9a6-678e-431a-9bb1-ed4cb23e954e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div/div/div/h4</value>
-      <webElementGuid>3b659481-f5f0-4844-8314-443b92695835</webElementGuid>
+      <webElementGuid>b05772d0-894b-4c77-ab95-990b3e9c0ea1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/preceding::h4[1]</value>
-      <webElementGuid>775df878-e141-4a18-85ae-1e2e38a2515b</webElementGuid>
+      <webElementGuid>c762ac7a-5073-44e7-b9fd-0a0ac2c9e754</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username / Email'])[1]/preceding::h4[2]</value>
-      <webElementGuid>6f8bd8bf-3e4f-4815-b33f-9ff8371ebb67</webElementGuid>
+      <webElementGuid>20174f60-34cd-4cd5-adcf-a3956c178821</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h4</value>
-      <webElementGuid>0e657bd7-c4bf-4594-8c1d-45a544fae8c6</webElementGuid>
+      <webElementGuid>2e81d74f-175c-4da4-a7f6-3a7c202fae45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = 'Aplikasi HR SV Jakarta' or . = 'Aplikasi HR SV Jakarta')]</value>
-      <webElementGuid>a7c03c89-2696-4631-af72-6b88803e35f2</webElementGuid>
+      <webElementGuid>1a9113b9-fb7d-487c-86e2-475f6a4ad348</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

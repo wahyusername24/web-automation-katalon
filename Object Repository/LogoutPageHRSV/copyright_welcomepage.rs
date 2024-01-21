@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ok_popup_error</name>
+   <name>copyright_welcomepage</name>
    <tag></tag>
-   <elementGuidId>0e15cc3a-0597-4228-b709-93a1757aecd9</elementGuidId>
+   <elementGuidId>c25a9e66-e0e8-4c3c-a202-b30f45100f15</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[2]/div/div[3]</value>
+         <value>/html/body/div/div/div[2]/div[2]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html/body/div[2]/div/div[3]</value>
-      <webElementGuid>f26bcb77-9a58-4a18-a0bd-5f8faeec018d</webElementGuid>
+      <value>/html/body/div/div/div[2]/div[2]/span</value>
+      <webElementGuid>ce79f3a5-6f2b-4e3a-ae58-8a830e76730a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -37,11 +37,10 @@ if (action == 'Login Success'){
 
 	WebUI.verifyElementVisible(findTestObject('Object Repository/HomePageHRSV/page_title'))
 	
-	WebUI.delay(5)
+	WebUI.delay(2)
 	
 	WebUI.verifyElementText(findTestObject('Object Repository/HomePageHRSV/profile_name'), 'TestAccountKaryawan1')
 		
-	WebUI.closeBrowser()	
 }
 
 if (action == 'Login Fail') {
@@ -62,8 +61,6 @@ if (action == 'Login Fail') {
 	}else{
 		WebUI.comment('Negative Case Fail')
 	}	
-	
-	WebUI.closeBrowser()	
 }
 
 if(action == 'Add Logbook') {
@@ -141,7 +138,6 @@ if(action == 'Add Logbook') {
 			WebUI.click(findTestObject('Object Repository/HomePageHRSV/LogbookPage/InputForm/ok_popup_error'))
 		}
 	}
-	WebUI.closeBrowser()
 }
 
 if(action == 'Delete Logbook') {
@@ -177,7 +173,7 @@ if(action == 'Delete Logbook') {
 	WebUI.delay(1)
 
 	WebUI.click(findTestObject('Object Repository/HomePageHRSV/LogbookPage/DeleteLogbook/close_popup'))
-	WebUI.closeBrowser()
+
 }
 
 if(action == 'ReqCuti Success') {
@@ -220,9 +216,7 @@ if(action == 'ReqCuti Success') {
 	WebUI.verifyElementVisible(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/success_message'))
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/close_popup'))
-	WebUI.delay(3)
 	
-	WebUI.closeBrowser()	
 }
 
 if(action == 'ReqLembur Success') {
@@ -271,9 +265,93 @@ if(action == 'ReqLembur Success') {
 	WebUI.verifyElementVisible(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/success_message'))
 	
 	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/okay_btn'))
+	WebUI.delay(2)
+	
+}
+
+if(action == 'ReqCuti Fail') {
+	
+	WebUI.waitForElementPresent(findTestObject('Object Repository/LoginPageHRSV/welcome_page'),2)
+	
+	WebUI.setText(findTestObject('Object Repository/LoginPageHRSV/username'), user)
+	
+	WebUI.setText(findTestObject('Object Repository/LoginPageHRSV/password'), pass)
+	
+	WebUI.click(findTestObject('Object Repository/LoginPageHRSV/button_login'))
+	
+	WebUI.verifyElementVisible(findTestObject('Object Repository/HomePageHRSV/page_title'))
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/cutilembur_menu'))
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/cuti_menu'))
+	
+	WebUI.verifyElementVisible(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/page_title_cuti'))
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/cuti_btn'))
+	
+	WebUI.verifyElementText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/form_cuti'), 'Form Pengajuan Cuti')
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/tgl'))
+	WebUI.setText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/tgl_start'),start_date)
+	WebUI.setText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/tgl_finish'), end_date)
+	WebUI.doubleClick(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/tap_outside_box'))
+	WebUI.delay(1)
+	WebUI.verifyElementPresent(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/count_days'), 17)
+	WebUI.selectOptionByIndex(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/nama_pic'), 2);
+	WebUI.setText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/keterangan'), ket)
+
+	WebUI.dragAndDropByOffset(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/ttd'), 10, 150)
+	WebUI.delay(1)
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/submit_btn'))
+	WebUI.verifyElementPresent(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Cuti/cuti_handle_empty'), 2)
 	WebUI.delay(3)
 	
-	WebUI.closeBrowser()
+}	
+
+if(action == 'ReqLembur Fail') {
+	
+	WebUI.waitForElementPresent(findTestObject('Object Repository/LoginPageHRSV/welcome_page'),2)
+	
+	WebUI.setText(findTestObject('Object Repository/LoginPageHRSV/username'), user)
+	
+	WebUI.setText(findTestObject('Object Repository/LoginPageHRSV/password'), pass)
+	
+	WebUI.click(findTestObject('Object Repository/LoginPageHRSV/button_login'))
+	
+	WebUI.verifyElementVisible(findTestObject('Object Repository/HomePageHRSV/page_title'))
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/cutilembur_menu'))
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/lembur_menu'))
+	
+	WebUI.verifyElementVisible(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/riwayat_lembur_title'))
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/lembur_btn'))
+	
+	WebUI.verifyElementText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/form_lembur_title'), 'Form Pengajuan Lembur')
+	
+	WebUI.setText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/input_tgl'), tgl)
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/input_jam_mulai'))
+	
+	WebUI.setText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/input_jam_mulai'), clock_in)
+	
+	WebUI.setText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/input_jam_selesai'), clock_out)
+	
+	WebUI.verifyElementText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/total_jam'), verify_hours)
+
+	WebUI.selectOptionByIndex(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/pic'), 4)
+	
+	
+	WebUI.setText(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/ket'), ket)
+	
+	WebUI.doubleClick(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/ttd'))
+	
+	WebUI.click(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/submit_btn'))
+		
+	WebUI.verifyElementPresent(findTestObject('Object Repository/HomePageHRSV/CutidanLemburPage/Lembur/handle_lembur_empty'), 2)
+	
 }
 
 if(action == 'Logout') {
@@ -288,6 +366,13 @@ if(action == 'Logout') {
 	
 	WebUI.verifyElementVisible(findTestObject('Object Repository/HomePageHRSV/page_title'))
 	
-}
-	
+	WebUI.click(findTestObject('Object Repository/LogoutPageHRSV/profile_icon'))
 
+	WebUI.click(findTestObject('Object Repository/LogoutPageHRSV/signout'))
+	
+	WebUI.waitForElementPresent(findTestObject('Object Repository/LogoutPageHRSV/copyright_welcomepage'), 2)
+	WebUI.verifyElementText(findTestObject('Object Repository/LogoutPageHRSV/welcome_title'), "Aplikasi HR SV Jakarta")
+
+}
+
+WebUI.closeBrowser()

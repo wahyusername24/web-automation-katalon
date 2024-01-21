@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ok_popup_error</name>
+   <name>handle_lembur_empty</name>
    <tag></tag>
-   <elementGuidId>0e15cc3a-0597-4228-b709-93a1757aecd9</elementGuidId>
+   <elementGuidId>68b71596-0b98-4356-81ee-0adb2aa4a5c0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -18,6 +18,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[2]/div/div[3]</value>
-      <webElementGuid>f26bcb77-9a58-4a18-a0bd-5f8faeec018d</webElementGuid>
+      <webElementGuid>ab58ddb0-ed9e-458a-a783-f33a5ffad502</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

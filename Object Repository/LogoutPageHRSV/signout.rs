@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ok_popup_error</name>
+   <name>signout</name>
    <tag></tag>
-   <elementGuidId>0e15cc3a-0597-4228-b709-93a1757aecd9</elementGuidId>
+   <elementGuidId>71acf33a-c032-4f2f-92de-fd378d0a017e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[2]/div/div[3]</value>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/header/ul[3]/li/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html/body/div[2]/div/div[3]</value>
-      <webElementGuid>f26bcb77-9a58-4a18-a0bd-5f8faeec018d</webElementGuid>
+      <value>//*[@id=&quot;root&quot;]/div/div[3]/header/ul[3]/li/div/a</value>
+      <webElementGuid>b62701de-7c09-4f15-8e9a-34170c5f4ecc</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

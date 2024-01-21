@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ok_popup_error</name>
+   <name>profile_icon</name>
    <tag></tag>
-   <elementGuidId>0e15cc3a-0597-4228-b709-93a1757aecd9</elementGuidId>
+   <elementGuidId>534c97b0-3cd3-4984-a99b-c54d962d1ee8</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
-         <value>/html/body/div[2]/div/div[3]</value>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/header/ul[3]/li/a/div/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +21,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html/body/div[2]/div/div[3]</value>
-      <webElementGuid>f26bcb77-9a58-4a18-a0bd-5f8faeec018d</webElementGuid>
+      <value>//*[@id=&quot;root&quot;]/div/div[3]/header/ul[3]/li/a/div/img</value>
+      <webElementGuid>76d09d72-004c-4817-844c-b57dd48f0997</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

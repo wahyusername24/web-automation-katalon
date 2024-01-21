@@ -17,3 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Test Cases/Page/PageSharingVision'),
+	[('action') : 'ReqCuti Fail',
+	('user') : 'TestAccountKaryawan1',
+	('pass') : 'P@sswordK1', ('start_date') : 'Jan 21, 2024', ('end_date') : 'Feb 6, 2024', ('ket') : 'Hal cuti tahunan merupakan hak yang dimiliki oleh setiap karyawan di perusahaan. Pada dasarnya, karyawan yang mengambil cuti tahunan ini bisa mengambil cuti sebanyak 12 hari per tahun dengan syarat karyawan sudah bekerja minimal satu tahun. Namun, jumlah dan ketentuan ini tidak bersifat permanen karena bisa bergantung pada posisi yang diduduki dan ketentuan masing-masing perusahaan.'
+	 ], FailureHandling.STOP_ON_FAILURE)
